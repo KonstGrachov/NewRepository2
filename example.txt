@@ -1,0 +1,1 @@
+This file used for test. In this folder exists C++ file. Connect to nonlocal repozitory.
